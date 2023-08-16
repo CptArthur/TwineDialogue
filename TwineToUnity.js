@@ -53,7 +53,7 @@ var entweedler = function() {
 					buffer.push(this.buildPassage("StoryData", "", JSON.stringify(properties, null, 1)))
 				}
 
-				/*
+
 				var userScript = window.document.getElementById("twine-user-script")
 				if (userScript)
 					buffer.push(this.buildPassage("UserScript","script",userScript.innerHTML))
@@ -61,7 +61,7 @@ var entweedler = function() {
 				var userStylesheet = window.document.getElementById("twine-user-stylesheet")
 				if (userStylesheet)
 					buffer.push(this.buildPassage("UserStylesheet","stylesheet",userStylesheet.innerHTML))
-				*/
+
 
 				var passages = window.document.getElementsByTagName("tw-passagedata")
 				for (var i = 0; i < passages.length; ++i)
