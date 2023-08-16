@@ -1,0 +1,12 @@
+{
+    "name": "entweedle",
+    "version": "1.1.1",
+    "description": "Entweedle",
+    "main": "build.js",
+    "author": "gnustoboz",
+    "license": "MIT",
+    "dependencies": {
+        "html-minifier": "^4.0.0",
+        "uglify-js": "^3.17.4"
+    }
+}

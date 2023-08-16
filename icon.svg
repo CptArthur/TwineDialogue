@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\mikey\Workspace\Dev\Projects\Web\maximumverbosity\twine\Entweedle\icon.png"
+   inkscape:export-xdpi="11.52"
+   inkscape:export-ydpi="11.52">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-70.714286"
+     inkscape:cy="486.7353"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="981"
+     inkscape:window-height="632"
+     inkscape:window-x="1330"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="482.85715"
+           height="468.57144"
+           x="2.8571429"
+           y="17.142857" /></flowRegion><flowPara
+         id="flowPara2999" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:50.7817688px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-14.517233"
+       y="921.72675"
+       id="text3001"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99594364,1.0040729)"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="-14.517233"
+         y="921.72675"
+         style="font-size:380.86328125px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">:: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.7817688px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="275.28137"
+       y="939.46771"
+       id="text3001-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99594363,1.0040729)"><tspan
+         sodipodi:role="line"
+         id="tspan3003-7"
+         x="275.28137"
+         y="939.46771"
+         style="font-size:380.86328125px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">E</tspan></text>
+  </g>
+</svg>
