@@ -1,16 +1,16 @@
 var entweedler = function() {
 	
-	if (typeof(window.Entweedle) == "undefined") {
+	if (typeof(window.TwineToUnity) == "undefined") {
 		
-		window.Entweedle = {
+		window.TwineToUnity = {
 		
 			converted: false,
 		
 			convert: function() {
-				if (window.Entweedle.converted)
+				if (window.TwineToUnity.converted)
 					return
 				
-				window.Entweedle.converted = true
+				window.TwineToUnity.converted = true
 				
 				var output = window.document.getElementById("output")
 
@@ -115,7 +115,7 @@ var entweedler = function() {
 		}			
 	}
 
-	window.Entweedle.convert()
+	window.TwineToUnity.convert()
 }	
 
 window.onload = entweedler

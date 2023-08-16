@@ -15,7 +15,7 @@ let fs = require('fs')
 let uglifier = require('uglify-js')
 let minifier = require('html-minifier')
 
-let script = fs.readFileSync('./Entweedle.js').toString()
+let script = fs.readFileSync('./TwineToUnity.js').toString()
 let page = fs.readFileSync('./template.html').toString()
 let license = fs.readFileSync('./license.txt').toString()
 
